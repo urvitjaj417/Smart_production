@@ -148,5 +148,5 @@ gunicorn app:app
 
 ## 👤 Credits
 
-Dashboard designed by **Urvit Jajoo**  
-Backend & system by **Azad Engineering Production Team**
+Dashboard designed, Backend and System Design by **Urvit Jajoo**  
+
